@@ -2,6 +2,7 @@
 
 ## Rules
 - You can only use React, nodejs, firebase, html and css
+- you can also use canva or website builders 
 - it needs to be intentionally bad
 - Anyone uploading spyware will be disqualified
 - teams of 1-3

@@ -4,13 +4,15 @@
 - You can only use React, nodejs, firebase, html and css
 - it needs to be intentionally bad
 - Anyone uploading spyware will be disqualified
+- teams of 1-3
 
 ## Critereas
 - Most extreme code layout
 - Most annoying feature
 - Most over-engineered project
 
-
+## Submission link:
+- https://scuffathon-2024.devpost.com
 
 ## Resources
 How to install Vscode:
